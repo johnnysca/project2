@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anteater/Desktop/projects/project2/app/gridynp.cpp
+string
+-
+vector
+-
+gridynp.hpp
+/home/anteater/Desktop/projects/project2/app/gridynp.hpp
+iostream
+-
+
+/home/anteater/Desktop/projects/project2/app/gridynp.hpp
+
+/home/anteater/Desktop/projects/project2/app/main.cpp
+
